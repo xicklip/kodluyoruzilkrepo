@@ -13,9 +13,16 @@ git clone https://github.com/xicklip/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
 
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
 ## Contributing
 
 [Logo](https://prnt.sc/FzTqg0Egk0zt)
 
 [patika dev hesabım](https://app.patika.dev/xicklip)
 
+## License
+[MIT](https://github.com/xicklip/kodluyoruzilkrepo/blob/main/LICENSE)
