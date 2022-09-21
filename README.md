@@ -17,5 +17,5 @@ Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
 
 [Logo](https://prnt.sc/FzTqg0Egk0zt)
 
-[patika dev hesabım] (https://app.patika.dev/xicklip)
+[patika dev hesabım](https://app.patika.dev/xicklip)
 
