@@ -22,7 +22,12 @@ code .
 
 [Logo](https://prnt.sc/FzTqg0Egk0zt)
 
-[patika dev hesabım](https://app.patika.dev/xicklip)
+
 
 ## License
 [MIT](https://github.com/xicklip/kodluyoruzilkrepo/blob/main/LICENSE)
+
+
+## Ek olarak
+
+[patika dev hesabım](https://app.patika.dev/xicklip)
