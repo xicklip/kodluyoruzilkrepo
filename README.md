@@ -4,6 +4,16 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/) Front-End Eğitiminde 
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+```
+git clone https://github.com/xicklip/kodluyoruzilkrepo.git
 
+```
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
+
+## Contributing
+
+[Logo](https://prnt.sc/FzTqg0Egk0zt)
 
